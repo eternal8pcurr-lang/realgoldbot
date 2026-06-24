@@ -1,0 +1,22 @@
+{
+  "name": "realgold-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private, access-gated RealGold briefing chatbot (Cloudflare Pages + Functions).",
+  "type": "module",
+  "scripts": {
+    "knowledge": "node scripts/build-knowledge.mjs",
+    "favicons": "node scripts/build-favicons.mjs",
+    "dev": "npm run knowledge && wrangler pages dev public",
+    "deploy": "npm run knowledge && wrangler pages deploy public"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.61.0",
+    "wrangler": "^3.90.0"
+  },
+  "allowScripts": {
+    "esbuild@0.17.19": true,
+    "sharp@0.33.5": true,
+    "workerd@1.20250718.0": true
+  }
+}

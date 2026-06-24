@@ -1,0 +1,30 @@
+# ---------------------------------------------------------------------------
+# LOCAL TESTING SECRETS (template)
+#
+# Copy this file to a new file named exactly  .dev.vars  (no ".example"),
+# then fill in your real values. The .dev.vars file is private to your
+# computer and is never uploaded or shared (it's git-ignored).
+#
+# In production, you set these same names in the Cloudflare dashboard instead.
+# ---------------------------------------------------------------------------
+
+# Your secret Anthropic API key (starts with "sk-ant-"). Required.
+ANTHROPIC_API_KEY=sk-ant-REPLACE-ME
+
+# One or more access codes visitors must enter, separated by commas.
+# Example: ACCESS_CODES=REALGOLD2026, PARTNER-JANE, BOARD-2026
+ACCESS_CODES=REALGOLD2026
+
+# (Optional) Override the default message limits per visitor.
+# Defaults are 20/hour and 100/day if you leave these out.
+RATE_PER_HOUR=20
+RATE_PER_DAY=100
+
+# (Optional) A private password for the leads admin page at /api/leads-admin
+ADMIN_KEY=change-me-to-something-private
+
+# (Optional, for LATER) Email delivery of captured leads via Resend.
+# Leave blank for now — leads are stored and viewable via the admin page.
+# RESEND_API_KEY=
+# LEAD_TO_EMAIL=Ken@real.gold
+# LEAD_FROM_EMAIL=RealGold Assistant <onboarding@resend.dev>

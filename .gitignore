@@ -1,0 +1,14 @@
+# Secrets — never share these
+.dev.vars
+
+# Dependencies
+node_modules/
+
+# Cloudflare / wrangler local state
+.wrangler/
+
+# Generated knowledge bundle (rebuilt from the .md files by `npm run knowledge`)
+functions/api/_knowledge.js
+
+# OS noise
+.DS_Store

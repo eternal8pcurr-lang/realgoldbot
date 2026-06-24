@@ -1,0 +1,20 @@
+# Cloudflare configuration for the RealGold Assistant.
+# You normally don't need to touch this.
+
+name = "realgold-assistant"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "public"
+
+# Storage ("KV") for the live site. These IDs point at the two storage areas
+# created in your Cloudflare account. On your computer, `npm run dev` simulates
+# them locally and never touches these — so local testing stays private.
+
+# Rate-limit counters.
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "aafce173ba9e4b42a6707659c952f35a"
+
+# Captured visitor emails (leads).
+[[kv_namespaces]]
+binding = "LEADS"
+id = "20539d6a353f410a9b0d14e26ddf5cc1"
