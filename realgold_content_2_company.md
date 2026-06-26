@@ -82,17 +82,25 @@ Handling remainders / preserving deferred-gain status: the ability to place smal
 
 Values alignment: proceeds fund regenerative land work, local economic development, and social-impact projects (impact/ESG-reportable — not a tax credit; see guardrails).
 
-5. RESOURCE UNITIZATION METHODOLOGY
+## 5. RESOURCE UNITIZATION METHODOLOGY
 
-All resources are first confirmed by an independent N.I. 43-101–compliant geological report by a Qualified Person, before registration in the Real Assets Registry.
+All resources are first confirmed by an independent geological assessment conducted by a **Qualified Person** — specifically, an **AIPG Certified Professional Geologist (C.P.G.)** — before registration in the Real Assets Registry. RealGold does not require or rely on N.I. 43-101 reporting, which is a Canadian Securities Exchange standard. RealGold operates under its own **RAF independent verification framework**, administered by the Real Assets Foundation.
 
-Confidence-based valuation ratios are applied to total Assayed Resources to determine what is eligible for registration, reflecting the three industry classifications: Measured (high confidence), Indicated (moderate), Inferred (lower confidence).
+The RAF verification process produces a **formal Technical Report** with certified gold resource estimates for the property. These estimates reflect the geologist's professional judgment of the in-ground resource at a stated confidence level. The resulting certified figure is the basis for all downstream unitization.
 
-The progression is: Assayed Resources (in the certified report) → Registered Resources (portion eligible for registration) → Releasable Resources (portion eligible for market release).
+The progression from certification to market is:
 
-RealGold releases to market a range of 20% up to a maximum of 50% of total Unitizable Resources, time-released over 20–40 years — creating stable supply growth and a steady stream of capital for stewardship, and making the asset over-collateralized.
+- **Certified Resources** (total in-ground resource as stated in the Technical Report) → **Registered Resources** (portion eligible for registration in the Real Assets Registry, after applying a 10% emergency extraction holdback) → **Releasable Resources** (portion eligible for market release, subject to tiered estate commitment and the minimum 2:1 over-collateralization ratio)
 
-(For the Courbet-specific holdback and the current conveyance ratios — ~10% held at mine, then 3:1 / 4:1 / 5:1 by estates committed — see the holdback knowledge; that is the current model for Courbet.)
+The RAF applies a **tiered release framework** based on the depth of regenerative commitment:
+
+| Estate Tier | Commitment | Units per oz of Gold | Release Schedule |
+|---|---|---|---|
+| Mineral Only | Mineral Estate only | 1 unit per 5 oz | 40 years |
+| Mineral + Biological | Mineral & Biological Estates | 1 unit per 4 oz | 30 years |
+| Tripartite | All Three Estates | 1 unit per 3 oz | 20 years |
+
+Year 1 availability is **20% of releasable units** across all tiers. The minimum **2:1 over-collateralization ratio** is maintained throughout the full release period — at least twice the equivalent ounce-value remains as verified, legally locked reserve for every unit released to market.
 
 6. THE TRIPARTITE ESTATE FRAMEWORK
 
